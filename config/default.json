@@ -1,0 +1,140 @@
+{
+  "formSpreeId": "xnqlylvp",
+  "profiles": {
+    "github": "https://github.com/lasykj",
+    "linkedin": "https://www.linkedin.com/in/richteran"
+  },
+  "images": [
+    "flutter.svg",
+    "javascript.png",
+    "knex.png",
+    "nestjs.svg",
+    "nodejs.png",
+    "npm.png",
+    "python.png",
+    "react.png",
+    "tailwindcss.png",
+    "typescript.svg",
+    "vuejs.png"
+  ],
+  "languages": [
+    "Javascript",
+    "Ruby",
+    "Python",
+    "Golang"
+  ],
+  "frameworks": [
+    "Nodejs",
+    "Reactjs",
+    "Nextjs",
+    "Nestjs",
+    "Expressjs",
+    "React native",
+    "Aws",
+    "Websockets",
+    "Databases",
+    "Tailwindcss",
+    "API integration",
+    "Rest Api",
+    "Graphql",
+    "HTML/CSS"
+  ],
+  "workExamples": [
+    "Static sites",
+    "Web apps",
+    "Mobile apps",
+    "Desktop apps",
+    "Scrapers",
+    "Crawlers",
+    "Servers"
+  ],
+  "projects": [
+    {
+      "title": "WeddingWorkflows App",
+      "description": "Photographer workflow management platform",
+      "url": "https://app.weddingworkflows.com",
+      "tags": [
+        "webapp",
+        "typescript",
+        "nestjs",
+        "express",
+        "tailwind",
+        "rest api",
+        "nextjs",
+        "custom domain"
+      ]
+    },
+    {
+      "title": "ForexTradersUk Dashboard",
+      "description": "Platform that allows forex companies to deploy and manage client metatrader4 accounts, their clients are then also able to use their client accounts to view their respective mt4 account statistics",
+      "url": "https://trader.forextradersuk.com",
+      "tags": [
+        "metatrader4 integration",
+        "webapp",
+        "typescript",
+        "nestjs",
+        "express",
+        "tailwind",
+        "rest api",
+        "nextjs"
+      ]
+    },
+    {
+      "title": "Tuner app",
+      "description": "iOS and android mobile application for audio professionals to tune automobile audio systems.",
+      "url": "https://streamable.com/igcl5",
+      "tags": [
+        "react native",
+        "mobile app",
+        "ios",
+        "android"
+      ]
+    },
+    {
+      "title": "Inventory App",
+      "description": "iOS and android mobile application for inventory management, vendor management, compatible with external barcode scanners, includes inventory status email notifications",
+      "url": "#",
+      "tags": [
+        "react native",
+        "mobile app",
+        "ios",
+        "android"
+      ]
+    },
+    {
+      "title": "Airtable api integration",
+      "description": "Civ7 inventory parser that automatically imports updated stock data into airtable.com",
+      "url": "#",
+      "tags": [
+        "script",
+        "python"
+      ]
+    },
+    {
+      "title": "Scraper for Travel Deals",
+      "description": "Scraper that constantly scans the top flight deals websites looking for flight and hotels deals and packages.\n",
+      "url": "#",
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "title": "Otto.de scraper",
+      "description": "Scraper that crawls every single product page from otto.de, stores all the product data and downloads all the available images",
+      "url": "#",
+      "tags": [
+        "python",
+        "postgres",
+        "aws"
+      ]
+    },
+    {
+      "title": "Discord Tournament Bot",
+      "description": "Discord bot that handles counter strike tournaments, users register to the tournament by paying an entry fee, the bot automatically creates tournament brackets once a tournament is started, it also automatically pays the winners of the tournament and subtracts a fee that goes to the administrators",
+      "url": "#",
+      "tags": [
+        "python"
+      ]
+    }
+  ]
+}
