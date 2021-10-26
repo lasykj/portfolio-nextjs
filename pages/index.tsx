@@ -19,7 +19,7 @@ const Home: NextPage<CustomPageProps> = ({config}) => {
 
             </Head>
 
-            <main className={" text-gray-300 p-4 md:p-10"}>
+            <main className={" text-white p-4 md:p-10"}>
                 <Header config={config}/>
                 <Skills config={config}/>
                 <RecentProjects config={config}/>
