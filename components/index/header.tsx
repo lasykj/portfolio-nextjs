@@ -2,7 +2,7 @@ import {CustomPageProps} from "../../shared/types/custom-page-props.type";
 
 export default function Header({config}: CustomPageProps) {
     return (
-        <div className={"p-4 border rounded-md max-w-4xl mx-auto py-14 space-y-3 "}>
+        <header className={"p-4 bg-secondary rounded-md max-w-4xl mx-auto py-14 space-y-3 "}>
             <h1 className={"text-center text-4xl "}>
                 Software Developer
             </h1>
@@ -29,6 +29,6 @@ export default function Header({config}: CustomPageProps) {
 
             </div>
 
-        </div>
+        </header>
     )
 }
