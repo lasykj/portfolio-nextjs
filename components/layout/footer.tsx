@@ -10,14 +10,14 @@ export default function Footer({config}: CustomPageProps) {
     ]
     return <footer className={"flex flex-col justify-center py-10  space-x-2 text-center"}>
         <div className={"flex justify-center  space-x-4 "}>
-            {
-                profiles.map(e => (
-                    <a key={e.url} href={e.url} rel={"nofollow noreferrer"} target={"_blank"}
-                       className={"text-primary hover:opacity-50 "}>
-                        {e.icon}
-                    </a>
-                ))
-            }
+            {/*{*/}
+            {/*    profiles.map(e => (*/}
+            {/*        <a key={e.url} href={e.url} rel={"nofollow noreferrer"} target={"_blank"}*/}
+            {/*           className={"text-primary hover:opacity-50 "}>*/}
+            {/*            {e.icon}*/}
+            {/*        </a>*/}
+            {/*    ))*/}
+            {/*}*/}
         </div>
         <p className={"text-xs text-primary mt-2"}>Developed with next.js and tailwindcss</p>
 
